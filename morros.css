@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+div{
+    font-family: "Magazine Letter By Brntlbrnl";
+    text-align: center;
+    font-size: 30px;
+}
+ul{
+    border-radius: 10px;
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#B32B32;
+}
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+li a:hover{
+    background-color: cadetblue;
+}
